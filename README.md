@@ -15,7 +15,7 @@ Our project provides a real time diagnostic tool tailored for for the farmers:
 ## How to run locally
 [to be updated as development begins]
 
-Team []
+## Team []
 **[Vaibhav Kumar Singh]** - Team leader[]
 **[Mansi]**-[]
 **[Rishang]**-[]
