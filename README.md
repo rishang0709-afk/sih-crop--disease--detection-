@@ -1,4 +1,4 @@
-# SIH-crop--disease--detection-
+# SIH-Crop-Disease-Detection-
 #Crop Disease and Pest detection System 
 **An AI driven digital solution for the early identification and management of crop diseases to protect the agricultural yields(SIH26131)**
 ## THE PROBLEM 
