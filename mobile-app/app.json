@@ -1,0 +1,47 @@
+{
+  "expo": {
+    "name": "Crop Health Advisory",
+    "slug": "crop-health-advisory",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "scheme": "crophealth",
+    "userInterfaceStyle": "dark",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#0a0f0d"
+    },
+    "ios": {
+      "supportsTablet": false,
+      "bundleIdentifier": "com.crophealth.advisory"
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#0a0f0d"
+      },
+      "package": "com.crophealth.advisory"
+    },
+    "web": {
+      "bundler": "metro"
+    },
+    "plugins": [
+      "expo-router",
+      "expo-secure-store",
+      "expo-speech",
+      [
+        "expo-av",
+        {
+          "microphonePermission": "Allow Crop Health Advisory to use your microphone for voice input."
+        }
+      ]
+    ],
+    "experiments": {
+      "typedRoutes": true
+    },
+    "extra": {
+      "apiBaseUrl": "http://10.0.2.2:8000"
+    }
+  }
+}
