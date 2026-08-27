@@ -16,11 +16,11 @@ Our project provides a real time diagnostic tool tailored for for the farmers:
 [to be updated as development begins]
 
 ## Team []
-**[Vaibhav Kumar Singh]** - Team leader[]
-**[Mansi]**-[]
-**[Rishang]**-[]
-**[Swastik]**-[]
-**[Sristi]**-[]
-**[Ankit]**-[]
+* **[Vaibhav Kumar Singh]** - Team leader[]
+* **[Mansi]**-[]
+* **[Rishang]**-[]
+* **[Swastik]**-[]
+* **[Sristi]**-[]
+* **[Ankit]**-[]
 
 
